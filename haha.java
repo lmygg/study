@@ -1,1 +1,6 @@
-ºÇºÇ
+ï¿½Çºï¿½
+
+public class uae r{
+
+ private  String userName;  
+}
