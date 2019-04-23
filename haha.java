@@ -1,6 +1,5 @@
-�Ǻ�
 
-public class uae r{
+public class uaer{
 
  private  String userName;  
 }
